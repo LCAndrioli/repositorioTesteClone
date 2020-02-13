@@ -2,7 +2,10 @@
 #include <stdio.h>
 
 int main(){
-    printf("Funciona...\n");
+    int a = 0;
+
+    printf("\tFunciona...\n");
+    printf("\tValor de A = %d\n", a);
 
     return 0;
 }
